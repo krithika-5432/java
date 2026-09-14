@@ -51,10 +51,3 @@ The array is traversed only once using the two pointers.
 **Space Complexity:** `O(1)`
 
 The duplicates are removed in-place without using any extra data structure.
-
-## LeetCode Performance
-
-- **Runtime:** 0 ms
-- **Beats:** 100.00%
-- **Memory:** 47.03 MB
-- **Beats:** 9.04%
