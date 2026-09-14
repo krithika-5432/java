@@ -53,10 +53,3 @@ Two nested loops are used, so every possible pair may be checked in the worst ca
 **Space Complexity:** `O(1)`
 
 No extra data structure is used.
-
-## LeetCode Performance
-
-- **Runtime:** 45 ms
-- **Beats:** 26.94%
-- **Memory:** 47.23 MB
-- **Beats:** 23.81%
